@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- Software Developer, Web Designer, Graphic Designer
 - Department of Behavior Informatics, Faculty of Informatics, Shizuoka University
 - [Shizuoka University xR Assorciation "Hamaria"](https://xr-hamaria.github.io)
 
