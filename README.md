@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Department of Behavior Informatics, Faculty of Informatics, Shizuoka University
+- [Shizuoka University xR Assorciation "Hamaria"](https://xr-hamaria.github.io)
+
+### How to reach me:
+[Twitter](https://twitter.com/arkw0)  
+お仕事のご相談はTwitterのDMまでお願いします。
