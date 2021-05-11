@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 - Software Developer, Web Designer, Graphic Designer
 - Department of Behavior Informatics, Faculty of Informatics, Shizuoka University
-- [Shizuoka University xR Assorciation "Hamaria"](https://xr-hamaria.github.io)
+- [Shizuoka University xR Assorciation "Hamaria"](https://xr-hamaria.github.io/)
+- [Shizuoka University ICON (Innovative Composite Organized New creators)](https://iconcreator.web.fc2.com/)
 
 ### How to reach me:
 [Twitter](https://twitter.com/arkw0)  
-お仕事のご相談はTwitterのDMまでお願いします。
+お仕事のご相談はTwitterのDMまたはメール（sr@arkw.jp）でお願いします。
