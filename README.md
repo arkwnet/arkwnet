@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 [Twitter](https://twitter.com/arkw0)  
 お仕事のご相談はTwitterのDMまたはメール（sr@arkw.jp）でお願いします。
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arkwnet)](https://github.com/ryo-ma/github-profile-trophy)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkwnet&hide=html)
-![Sora Arakawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkwnet&show_icons=true&count_private=true&line_height=40)
+![trophy](https://github-profile-trophy.vercel.app/?username=arkwnet)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkwnet&layout=compact&hide=html&langs_count=10)
+![Sora Arakawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkwnet&show_icons=true&count_private=true&line_height=24)
