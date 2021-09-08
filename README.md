@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=arkwnet)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkwnet&layout=compact&hide=html&langs_count=10)
-![Sora Arakawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkwnet&show_icons=true&count_private=true&line_height=24)
+![Sora Arakawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkwnet&show_icons=true&count_private=true&line_height=28)
