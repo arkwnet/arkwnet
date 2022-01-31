@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 お仕事のご相談はTwitterのDMまたはメール（sr@arkw.jp）でお願いします。
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=arkwnet)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkwnet&layout=compact&hide=html&langs_count=10)
-![Sora Arakawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkwnet&show_icons=true&count_private=true&line_height=28)
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkwnet&layout=compact&count_private=true&show_icons=true&langs_count=10&hide=html,css" />
+  <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=arkwnet&count_private=true&show_icons=true" />
+</p>
