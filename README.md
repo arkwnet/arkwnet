@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### How to reach me:
 [Twitter](https://twitter.com/arkw0)  
-お仕事のご相談はTwitterのDMまたはメール（sr@arkw.jp）でお願いします。
+お仕事のご相談はTwitterのDMまたはメール（mail@arkw.net）でお願いします。
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=arkwnet)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkwnet&layout=compact&count_private=true&show_icons=true&langs_count=10&hide=html,css)
