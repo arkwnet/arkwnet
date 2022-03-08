@@ -20,9 +20,5 @@ Here are some ideas to get you started:
 - [Shizuoka University xR Assorciation "Hamaria"](https://xr-hamaria.github.io/)
 - [Shizuoka University ICON (Innovative Composite Organized New creators)](https://iconcreator.web.fc2.com/)
 
-### How to reach me:
-[Twitter](https://twitter.com/arkw0)  
-お仕事のご相談はTwitterのDMまたはメール（mail@arkw.net）でお願いします。
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=arkwnet)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkwnet&layout=compact&count_private=true&show_icons=true&langs_count=10&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkwnet&layout=compact&count_private=true&show_icons=true&langs_count=10&hide=html,css,hack)
