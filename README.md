@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Software Developer, Web Designer, Graphic Designer
-- Department of Behavior Informatics, Faculty of Informatics, Shizuoka University
-- [Shizuoka University xR Assorciation "Hamaria"](https://xr-hamaria.github.io/)
-- [Shizuoka University ICON (Innovative Composite Organized New creators)](https://iconcreator.web.fc2.com/)
+- Graduated from Department of Behavior Informatics, Faculty of Informatics, Shizuoka University in 2024
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=arkwnet)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkwnet&layout=compact&count_private=true&show_icons=true&langs_count=10&hide=html,css,hack)
